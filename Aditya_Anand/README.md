@@ -4,28 +4,27 @@ Name: Aditya Anand
 Roll: 200043
 ```
 # Details:
-<b>First 2 weeks:</b>
-<br>
-Had an exposure of basics HTML codes and its various tags, like, div, img, etc,
-<br>
-<br>
-<b>Week 3 & 4:</b>
-<br>
-Learned styling the text and adding designs using CSS. Also, got tp learn about Flexbox, transitions, etc.
-<br>
-<br>
-<b>Week 5 & 6:</b>
-<br>
-Major achivement: completed CSS, started with JavaScript.
-<br>
-<br>
-<b>Week 7 & 8:</b>
-<br>
-Learned various syntax in Js, also made a site using HTML, CSS, and JS, and published on github.
-<br>
-<br>
-<b>Week 9 & 10:</b>
-<br>
-Backend started, Frontend done.
-<br>
-<br>
+## First & Second week work:    
+
+Learnt HTML syntax and useful and most used tags like span, div, body, images, audio, video, tables in HTML.
+Then did a dive to more advanced HTML by learning  forms. And finally did few assignments based on these.
+
+## Third and Fourth week work: 
+
+Learnt styling in HTML and then to do same using CSS which includes various properties and selectors that
+helped in styling the webpage. Also did an assignment which covered concepts from both HTML and CSS.
+
+## Fifth and Sixth week work:   
+
+We learnt JS and we made our first Website using HTML+CSS+JS and completed few other assignments.
+
+## Seventh and Eight week work :
+
+Till now we have been introduced to basic back-end web development . We learnt about express and completed an assignment on **GET and POST METHOD**.
+Did some assignments related to it.
+
+## Ninth and Tenth week work :
+Learnt about templating engine ***EJS*** and a introductory lecture to database and database management program like ***mongoDB***.
+
+## Eleventh and Twelfth week work :
+Made a credit-card detail storing system, where the details are stored in a .json file.
