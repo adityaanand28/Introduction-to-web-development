@@ -1,27 +1,30 @@
-# Introduction to web development 
-This is the repository of work done so far [ACA](https://www.facebook.com/aca.cse.iitk/) Project ,Intro to wed development
-
-### Mentors
-- [Dinesh Ram](https://github.com/dinesh-cpu): dram@iitk.ac.in 
-- Hariom :harioms@iitk.ac.in
-
-### Relevant Links
-[Websites developed by 1st Year students of IITK](https://docs.google.com/spreadsheets/d/1LHgJQZQaUL_1WsSH0Go8X7WrJ14_GmgY6tVUwnC4ras/edit#gid=0)
-
-## Development Environment
-
-```bash
-- HTML,CSS,JS : Front End implementation    
-- Nodejs  : For api implementation     #https://nodejs.org/en/
-- Mongodb : Database implementation    	# https://www.mongodb.com/
+# Introduction to Web Development:-
 ```
-## Directory Structure
+Name: Aditya Anand
+Roll: 200043
 ```
-.
-├── README.md
-├── Student Name
-    └── Month1
-    └── Month2
-    └── Month3
-23 directories
-```
+# Details:
+## First & Second week work:    
+
+Learnt HTML syntax and useful and most used tags like span, div, body, images, audio, video, tables in HTML.
+Then did a dive to more advanced HTML by learning  forms. And finally did few assignments based on these.
+
+## Third and Fourth week work: 
+
+Learnt styling in HTML and then to do same using CSS which includes various properties and selectors that
+helped in styling the webpage. Also did an assignment which covered concepts from both HTML and CSS.
+
+## Fifth and Sixth week work:   
+
+We learnt JS and we made our first Website using HTML+CSS+JS and completed few other assignments.
+
+## Seventh and Eight week work :
+
+Till now we have been introduced to basic back-end web development . We learnt about express and completed an assignment on **GET and POST METHOD**.
+Did some assignments related to it.
+
+## Ninth and Tenth week work :
+Learnt about templating engine ***EJS*** and a introductory lecture to database and database management program like ***mongoDB***.
+
+## Eleventh and Twelfth week work :
+Made a credit-card detail storing system, where the details are stored in a .json file.
