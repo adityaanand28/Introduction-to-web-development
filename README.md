@@ -1,9 +1,11 @@
 # Introduction to Web Development:-
-```
-Name: Aditya Anand
-Roll: 200043
-```
-# Details:
+
+## Details:
+This project was offered by Association of Computing Activities (ACA), IIT Kanpur during summers from May'21 to Aug'21. The following objectivve was archieved during the project:
+
+- Gained knowledge of both front-end and back-end development, as well as databasing and the HTTP request methods
+- Implemented tools, including Node.js, MongoDB, Express, and EJS’s template engine, in order to construct and deploy tasks
+
 ## First & Second week work:    
 
 Learnt HTML syntax and useful and most used tags like span, div, body, images, audio, video, tables in HTML.
