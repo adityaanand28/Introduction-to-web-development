@@ -1,4 +1,4 @@
-# Introduction to Web Development:-
+# Introduction to Web Development
 
 ## Details:
 This project was offered by Association of Computing Activities (ACA), IIT Kanpur during summers from May'21 to Aug'21. The following objectivve was archieved during the project:
